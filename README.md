@@ -44,7 +44,7 @@ Follow these steps to run the project locally:
 ### 1️. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/rhpa-health-atlas.git
+git clone https://github.com/Syed-arsh-09/RHPA-health-atlas.git
 cd rhpa-health-atlas
 ```
 
