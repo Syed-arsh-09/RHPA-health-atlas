@@ -1,7 +1,6 @@
 # Data
-data/raw/
-*.sav
-*.dta
+data/raw/*
+!data/raw/README.md
 
 # Allow README inside raw
 !data/raw/README.md
