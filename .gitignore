@@ -2,6 +2,7 @@
 data/raw/
 *.sav
 *.csv
+*.dta
 
 # Models
 models/
